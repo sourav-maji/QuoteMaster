@@ -5,6 +5,11 @@ MotivationHub is a simple web application that displays inspirational quotes to 
 ![alt ...](./quote.png)
 ---
 
+
+## Live Project URL
+[Live URL](https://quotemaster-teal.vercel.app/)
+
+
 ## Features
 1. Get Motivational Quotes: Display random motivational quotes to inspire you.
 2. New Quote: Click a button to generate a fresh quote.
